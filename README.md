@@ -1,8 +1,7 @@
 # 🐍 SnakeDQN — Teaching an AI to Play Snake
 
 A Deep Q-Network (DQN) agent that learns to play Snake from scratch, through nothing but trial and error. 
-No pre-programmed strategy or hardcoded rules to "avoid the wall", this is a neural network, trained via 
-a reward signal, and a few thousand games to figure it out.
+This is a neural network, trained only via a reward signal, and a few thousand games to figure it out.
 
 ![Trained agent playing Snake](results/gameplay.gif)
 
